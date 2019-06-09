@@ -1,3 +1,4 @@
+[![Build Status](https://sparshik.visualstudio.com/first-pipeline/_apis/build/status/navenduagarwal.pipelines-java?branchName=master)](https://sparshik.visualstudio.com/first-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
